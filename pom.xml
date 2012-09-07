@@ -4,8 +4,8 @@
 	<artifactId>hw0-yiwenche</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git://github.com/even19900606/hw0-yiwenche.git</connection>
-		<developerConnection>scm:git:git://github.com/even19900606/hw0-yiwenche.git</developerConnection>
+		<connection>git@github.com:even19900606/hw0-yiwenche.git</connection>
+		<developerConnection>git@github.com:even19900606/hw0-yiwenche.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
